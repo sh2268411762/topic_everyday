@@ -5,7 +5,7 @@
 //using namespace std;
 //
 //
-//
+//É¾³ý¹«¹²×Ö·û´®
 //int main()
 //{
 //	string str1 = "";
