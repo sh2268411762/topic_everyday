@@ -152,6 +152,10 @@
     <ClCompile Include="11.27.2.cpp" />
     <ClCompile Include="11.28.2.cpp" />
     <ClCompile Include="11.28.cpp" />
+    <ClCompile Include="11.30.1.cpp" />
+    <ClCompile Include="11.30.2.cpp" />
+    <ClCompile Include="12.01.1.cpp" />
+    <ClCompile Include="12.01.2.cpp" />
     <ClCompile Include="c.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
