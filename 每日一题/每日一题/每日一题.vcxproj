@@ -171,7 +171,9 @@
     <ClCompile Include="12.09.1.cpp" />
     <ClCompile Include="12.09.2.cpp" />
     <ClCompile Include="12.10.2.cpp" />
-    <ClCompile Include="1210.1.cpp" />
+    <ClCompile Include="12.11.1.cpp" />
+    <ClCompile Include="12.10.1.cpp" />
+    <ClCompile Include="12.11.2.cpp" />
     <ClCompile Include="c.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
