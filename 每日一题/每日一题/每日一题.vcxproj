@@ -145,6 +145,9 @@
     <ClCompile Include="01.20.cpp" />
     <ClCompile Include="01.21.cpp" />
     <ClCompile Include="01.22.cpp" />
+    <ClCompile Include="01.24.cpp" />
+    <ClCompile Include="01.25.cpp" />
+    <ClCompile Include="01.26.cpp" />
     <ClCompile Include="11.23.1.cpp" />
     <ClCompile Include="11.23.cpp" />
     <ClCompile Include="11.24.1.cpp" />
