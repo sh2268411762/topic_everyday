@@ -162,5 +162,14 @@
     <ClCompile Include="01.27.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="01.28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01.30.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02.01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

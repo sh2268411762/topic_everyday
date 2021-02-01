@@ -1,2 +1,159 @@
-﻿  01.24.cpp
-  每日一题.vcxproj -> D:\git Code\topic_everyday\每日一题\Debug\每日一题.exe
+﻿  01.17.1.cpp
+  01.17.2.cpp
+  01.18.cpp
+  01.20.cpp
+  01.21.cpp
+  01.22.cpp
+  01.24.cpp
+  01.25.cpp
+  01.26.cpp
+  01.27.cpp
+  01.28.cpp
+  01.30.cpp
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,18): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,18): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,29): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,29): error C2065: “int month”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,41): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,41): error C2065: “int day”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(8,51): error C2448: “int day_of_week”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(9,6): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(9,22): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(10,3): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(11,3): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(13,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(13,19): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(14,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,16): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,36): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,48): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,57): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,77): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(15,97): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(16,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(16,12): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(17,6): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(18,3): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(20,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,20): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,20): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,31): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,31): error C2065: “int month”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,43): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,43): error C2065: “int count”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,55): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,55): error C2065: “int d_of_week”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,69): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(23,71): error C2448: “int day_of_demand”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(24,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(26,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(26,20): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(26,44): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(27,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(30,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(30,20): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(30,20): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(30,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(30,31): error C2448: “void new_year_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(34,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(34,30): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(34,30): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(34,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(34,41): error C2448: “void martin_luther_king_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(38,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(38,21): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(38,21): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(38,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(38,32): error C2448: “void president_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(42,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(42,20): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(42,20): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(42,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(42,31): error C2448: “void memorial_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(44,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(46,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(46,22): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(46,42): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(50,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(50,24): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(50,24): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(50,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(50,35): error C2448: “void independence_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(54,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(54,17): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(54,17): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(54,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(54,28): error C2448: “void labor_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(58,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(58,25): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(58,25): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(58,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(58,36): error C2448: “void thanks_giving_day”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(62,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(62,17): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(62,17): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(62,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(62,28): error C2448: “void christmas”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(66,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(66,22): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(66,22): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(66,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(66,33): error C2448: “void holiday_of_usa”: 函数样式初始值设定项类似函数定义
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(76,1): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(77,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(78,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(78,2): error C2065: “int year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(79,9): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(79,9): error C2065: “cin ”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(79,18): error C2065: “year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(80,18): error C2065: “year”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(80,3): error C3861: “holiday_of_usa”: 找不到标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(82,2): error C3872: “0xa0”: 此字符不允许在标识符中使用
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(82,2): error C2065: “return 0”: 未声明的标识符
+D:\git Code\topic_everyday\每日一题\每日一题\01.30.cpp(83,1): warning C4508: “int main”: 函数应返回一个值；假定“void”返回类型
+  11.23.1.cpp
+  11.23.cpp
+  11.24.1.cpp
+  11.21.cpp
+  11.22.cpp
+  11.24.2.cpp
+  11.25.1.cpp
+  11.25.2.cpp
+  正在生成代码...
+  正在编译...
+  11.26.1.cpp
+  11.27.1.cpp
+  11.27.2.cpp
+  11.28.2.cpp
+  11.28.cpp
+  11.30.1.cpp
+  11.30.2.cpp
+  12.01.1.cpp
+  12.01.2.cpp
+  12.02.1.cpp
+  12.02.2.cpp
+  12.03.1.cpp
+  12.03.2.cpp
+  12.04.1.cpp
+  12.04.2.cpp
+  12.05.1.cpp
+  12.05.2.cpp
+  12.07.1.cpp
+  12.07.2.cpp
+  12.08.1.cpp
+  正在生成代码...
+  正在编译...
+  12.08.2.cpp
+  12.09.1.cpp
+  12.09.2.cpp
+  12.10.2.cpp
+  12.11.1.cpp
+  12.10.1.cpp
+  12.11.2.cpp
+  12.12.1.cpp
+  12.12.2.cpp
+  正在生成代码...
